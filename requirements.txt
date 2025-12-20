@@ -1,0 +1,4 @@
+tensorflow
+joblib
+reportlab
+scikit-learn
